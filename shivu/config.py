@@ -8,12 +8,12 @@ class Config(object):
     TOKEN = "6453256066:AAE1Zcuk5udmu-73jLShBxmlXELrjqsev-k"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
+    SUPPORT_CHAT = "-1002097725963"
+    UPDATE_CHAT = "-1002097725963"
+    BOT_USERNAME = "-1002097725963"
     CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    api_id = 28213805
+    api_hash = "8f80142dfef1a696bee7f6ab4f6ece34"
 
     
 class Production(Config):
